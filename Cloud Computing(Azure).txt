@@ -1,0 +1,35 @@
+Cloud Computing and Cloud Service Providers
+
+What is Cloud Computing?
+------------------------
+Cloud computing provides on-demand access to computing services like servers, storage, and applications via the internet. Instead of owning hardware, businesses can rent services based on their needs.
+
+Types of Cloud Services:
+- IaaS (Infrastructure as a Service)
+- PaaS (Platform as a Service)
+- SaaS (Software as a Service)
+
+Why Cloud Computing?
+---------------------
+- Cost Savings: Pay only for what you use.
+- Scalability: Easily adjust resources as needed.
+- Accessibility: Access from anywhere with an internet connection.
+- Disaster Recovery: Automatic backups and redundancy.
+
+Major Cloud Service Providers:
+------------------------------
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+
+How to Create a Free Azure Account 
+----------------------------------
+1. Visit https://azure.microsoft.com and click "Start Free."
+2. Sign in with a Microsoft account or create a new one.
+3. Verify your identity via phone (OTP) and credit card (no charges).
+4. Enter personal information like name, country, and address.
+5. Agree to the Azure subscription terms.
+6. Select the Free Trial subscription
+7. Access the Azure Portal to start using cloud services.
+
+
